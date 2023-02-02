@@ -27,7 +27,7 @@ def simple_calculate(operation, num1, num2):
         # TODO: finish this statement
         # - should return the result of dividing num1 by num2
         # - remember to raise a ValueError if num2 is 0
-        return num 1 / num2 
+        return num1 / num2 
     else:
         raise ValueError(
             'Invalid Operation: Simple Operations are (+, -, *, and /)')
